@@ -79,6 +79,6 @@ a baseline estimate and a collaborative filtering system .
 
 ## Team Members:
 * [Milind Jain - 2020A7PS0153H](https://github.com/jainmilind)
-* [Ashwin Naveen Pugalia - 2020A7PS1080H]()
+* [Ashwin Naveen Pugalia - 2020A7PS1080H](https://github.com/Ashwin-1709)
 * [Ashwin Arun - 2020A7PS1291H](https://github.com/CodeFreak2002)
 * [Arkishman Ghosh - 2020A7PS2077H](https://github.com/ArkiGhosh)
